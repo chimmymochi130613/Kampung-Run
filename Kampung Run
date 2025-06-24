@@ -1,10 +1,1 @@
-cd ""C:\Users\USER\Desktop\KampungRun.unitypackage""
-git init
-git remote add origin https://github.com/chimmymochi130613/Kampung-Run.git
-git branch -M main
-
-echo "# Kampung Run Unity Package" > README.md
-git add.
-git commit -m "Add KampungRun.unitypackage (large file)"
-git push -u origin main
-
+C:\Users\USER\Kampung-Run-Git\KampungRun.unitypackage
